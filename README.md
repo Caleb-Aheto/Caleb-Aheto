@@ -1,40 +1,34 @@
 # Hi, I'm Caleb Kwaku Aheto 👋
 
-**Second-year Computer Science student at KNUST | Backend Engineer | Sound Engineer**
+### Full-Stack Developer | Backend Systems Focus | Sound Engineer
 
-I build robust, enterprise-grade software with a strong focus on backend architecture, relational database design, and secure API development. Whether I am mixing live audio at a console or configuring complex dependency injections in Spring Boot, I am obsessed with clean structures, optimal signal flow, and eliminating technical debt.
-
----
-
-### 🚀 What I'm Currently Working On
-
-* **Architecting Production Systems:** Serving as the sole systems architect and lead developer for a comprehensive church management system, featuring a strictly typed PostgreSQL database, role-based JWT authentication, and automated Flyway migrations.
-* **Team Collaboration:** Actively contributing to the **ArtisanNest** KNUST course project workspace and team-based library system developments.
-* **Low-Level Systems:** Diving deep into CPU architecture, memory management, and low-level execution as part of my Group 4 assembly language project.
-* **Continuous Learning:** Expanding my backend mastery through the University of Helsinki's rigorous Java Programming MOOC.
+I design and build robust, scalable software spanning enterprise backend services, modern web interfaces, and mobile applications. Driven by a passion for clean architecture, database design, and low-level execution—whether I'm engineering Spring Boot services or mixing live audio.
 
 ---
 
-### 💻 Tech Stack & Tools
+## 🚀 What I'm Currently Working On
+
+* 🏛️ **Church Management System (`eagcms`):** Architecting a production-ready backend system with PostgreSQL, role-based JWT authentication, and Flyway database migrations.
+* 🤝 **Collaborative Engineering:** Contributing to multi-developer project workspaces like **ArtisanNest** and course library systems.
+* ⚙️ **Systems & Architecture:** Diving deep into low-level execution, CPU memory management, and C++/Assembly fundamentals.
+* 📚 **Continuous Learning:** Refining enterprise backend patterns through the University of Helsinki's Java Programming MOOC.
+
+---
+
+## 🛠 Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, JavaScript, SQL, Assembly |
-| **Frameworks** | Spring Boot, React, React Native |
-| **Databases** | PostgreSQL, REST APIs |
-| **DevOps & Architecture** | Flyway, JWT Auth, CI/CD pipelines |
-| **Environment & Tools** | Ubuntu, Git, GitHub Copilot, JetBrains suite |
+| **Languages** | Java, TypeScript, Python, C++, Visual Basic .NET, Assembly, SQL |
+| **Backend & APIs** | Spring Boot, RESTful APIs |
+| **Frontend & Mobile** | React, React Native |
+| **Databases** | PostgreSQL, Microsoft SQL Server |
+| **Tools & OS** | Ubuntu Linux, Git, JetBrains Suite, GitHub Copilot |
 
 ---
 
-### 📈 GitHub Stats
+## 📫 Let's Connect
 
-<!-- Note: You can add dynamic GitHub stat cards here later using open-source tools like github-readme-stats -->
+* 📧 **Email:** [kaylebaheto@gmail.com](mailto:kaylebaheto@gmail.com)
 
----
-
-### 📫 Let's Connect
-
-* **Email:** kaylebaheto@gmail.com
-
-> *"Building software like mixing audio: every input needs validation, every output needs clarity, and the architecture defines the experience."*
+> *"Building software is like mixing live audio: every input needs validation, every output needs clarity, and clean architecture defines the experience."*
