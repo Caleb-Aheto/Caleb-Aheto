@@ -18,7 +18,7 @@ I build scalable, maintainable software with a strong emphasis on backend design
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, TypeScript, Python, C++, Visual Basic .NET, Assembly, SQL |
+| **Languages** | Java, TypeScript, Python, C++, Assembly, SQL |
 | **Backend & APIs** | Spring Boot, RESTful APIs |
 | **Frontend & Mobile** | React, React Native |
 | **Databases** | PostgreSQL, Microsoft SQL Server |
