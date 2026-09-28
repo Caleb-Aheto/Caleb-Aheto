@@ -1,6 +1,6 @@
 # Hi, I'm Caleb Kwaku Aheto 👋
 
-### Full-Stack Developer | Backend & Systems Architecture
+### Full-Stack Developer
 
 I build scalable, maintainable software with a strong emphasis on backend design, relational databases, and system performance. Whether engineering enterprise REST APIs in Spring Boot, crafting responsive frontends in React, or studying low-level CPU execution, I am focused on writing clean, type-safe, and debt-free code.
 
