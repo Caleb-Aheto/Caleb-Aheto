@@ -1,4 +1,4 @@
-# Hi, I'm Caleb Kwaku Aheto 👋
+# Hi, I'm Caleb 👋
 
 ### Full-Stack Developer
 
@@ -16,7 +16,7 @@ I build scalable, maintainable software with a strong emphasis on backend design
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, Python, C++, SQL |
+| **Languages** | Java, Python, C++, Javascript, SQL |
 | **Backend & APIs** | Spring Boot, RESTful APIs |
 | **Frontend & Mobile** | React, React Native |
 | **Databases** | PostgreSQL, Microsoft SQL Server |
