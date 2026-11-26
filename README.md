@@ -9,8 +9,6 @@ I build scalable, maintainable software with a strong emphasis on backend design
 ## 🚀 What I'm Currently Working On
 
 * 🏛️ **Church Management System (`eagcms`):** Architecting a production-ready backend system using Java, PostgreSQL, role-based JWT security, and Flyway database migrations.
-* 🤝 **Collaborative Engineering:** Contributing to multi-developer project workspaces (**ArtisanNest**) and building full-stack library management tools.
-* ⚙️ **Systems & Low-Level Code:** Exploring CPU architecture, memory management, and low-level execution with Assembly and C++.
 
 ---
 
@@ -18,11 +16,10 @@ I build scalable, maintainable software with a strong emphasis on backend design
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, TypeScript, Python, C++, Assembly, SQL |
+| **Languages** | Java, Python, C++, SQL |
 | **Backend & APIs** | Spring Boot, RESTful APIs |
 | **Frontend & Mobile** | React, React Native |
 | **Databases** | PostgreSQL, Microsoft SQL Server |
-| **Tools & OS** | Ubuntu Linux, Git, JetBrains Suite, GitHub Copilot |
 
 ---
 
